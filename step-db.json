@@ -1,7 +1,164 @@
-[
-  {
-    "model": "نموذج 4 | Model 4",
-    "en": "Giant Panda",
-    "ar": "الباندا العملاقة"
-  }
-]
+{
+  "course": "STEP",
+  "section": "Reading",
+  "models": [
+    {
+      "model_id": "A",
+      "model_name_en": "Model A",
+      "model_name_ar": "نموذج A",
+      "test_url": "https://step2english.com/course/view.php?id=MODEL_A",
+      "items": [
+        {
+          "id": "A-01",
+          "en": "Muhammad Ali",
+          "ar": "محمد علي",
+          "type": "reading",
+          "category": "biography",
+          "aliases": [
+            "muhammad ali","mohamed ali","mohammad ali","muhamad ali","ali",
+            "boxing","boxer","boxing legend","heavyweight","champion","world champion",
+            "محمد علي","محمد علي كلاي","علي كلاي","ملاكم","ملاكمة","اسطورة الملاكمة","بطل العالم"
+          ]
+        },
+        {
+          "id": "A-02",
+          "en": "Madagascar",
+          "ar": "مدغشقر",
+          "type": "reading",
+          "category": "geography",
+          "aliases": [
+            "madagascar","madagaskar","mada gascar","mada",
+            "island","africa island","country","geography",
+            "مدغشقر","جزيرة مدغشقر","دولة مدغشقر","جزيرة","جغرافيا"
+          ]
+        },
+        {
+          "id": "A-03",
+          "en": "Fast Food",
+          "ar": "الوجبات السريعة",
+          "type": "reading",
+          "category": "health",
+          "aliases": [
+            "fast food","junk food","unhealthy food","quick meals","processed food",
+            "burger","burgers","pizza","fries","fried food",
+            "وجبات سريعة","الوجبات السريعة","junk","اكل سريع","أكل سريع","اكل غير صحي","طعام غير صحي","برجر","بيتزا","مقليات"
+          ]
+        },
+        {
+          "id": "A-04",
+          "en": "Brazil’s Water Shortage (São Paulo Drought)",
+          "ar": "أزمة المياه في البرازيل (جفاف ساو باولو)",
+          "type": "reading",
+          "category": "environment",
+          "aliases": [
+            "brazil water shortage","brazil water crisis","water shortage","water crisis",
+            "drought","sao paulo drought","sao paulo","brazil drought","lack of water",
+            "ازمة المياه","أزمة المياه","ازمة المياه في البرازيل","أزمة المياه في البرازيل","نقص المياه","شح المياه","جفاف","جفاف ساو باولو","ساو باولو","البرازيل"
+          ]
+        },
+        {
+          "id": "A-05",
+          "en": "The Aral Sea",
+          "ar": "بحر آرال",
+          "type": "reading",
+          "category": "environment",
+          "aliases": [
+            "aral sea","sea aral","aral","shrinking sea","drying sea","environmental disaster",
+            "بحر ارال","بحر آرال","ارال","كارثة بيئية","بحر بيجف","جفاف البحر"
+          ]
+        },
+        {
+          "id": "A-06",
+          "en": "Visitors Statistics (Chart)",
+          "ar": "إحصائيات الزوار (رسم بياني)",
+          "type": "reading",
+          "category": "chart",
+          "aliases": [
+            "visitors statistics","visitor statistics","visitors","visitor chart","chart visitors",
+            "graph","chart","statistics","data","numbers",
+            "احصائيات الزوار","إحصائيات الزوار","عدد الزوار","زوار","رسم بياني","مخطط","احصائيات","بيانات"
+          ]
+        },
+        {
+          "id": "A-07",
+          "en": "Company Revenue (Chart)",
+          "ar": "إيرادات الشركة (رسم بياني)",
+          "type": "reading",
+          "category": "chart",
+          "aliases": [
+            "company revenue","revenue","income","profits","profit","financial chart","revenue chart",
+            "business revenue","sales revenue",
+            "ايرادات الشركة","إيرادات الشركة","ارباح","أرباح","دخل الشركة","مبيعات","رسم بياني","مخطط","بيانات مالية"
+          ]
+        },
+        {
+          "id": "A-08",
+          "en": "Red Flags That a Text Is Spam",
+          "ar": "علامات تحذيرية تدل على أن الرسالة احتيالية",
+          "type": "reading",
+          "category": "technology",
+          "aliases": [
+            "spam","spam text","spam message","scam","fraud","fake message","phishing","text scam","sms scam",
+            "red flags spam","spam signs",
+            "سبام","رسائل سبام","رسالة سبام","احتيال","رسائل احتيالية","نصب","خداع","تصيد","تصيد احتيالي","علامات احتيال","رسالة احتيال"
+          ]
+        },
+        {
+          "id": "A-09",
+          "en": "Acid Rain",
+          "ar": "الأمطار الحمضية",
+          "type": "reading",
+          "category": "environment",
+          "aliases": [
+            "acid rain","acidic rain","air pollution","pollution","environment","environmental problem",
+            "امطار حمضية","أمطار حمضية","الأمطار الحمضية","تلوث الهواء","تلوث","مشكلة بيئية","بيئة"
+          ]
+        },
+        {
+          "id": "A-10",
+          "en": "Public Libraries",
+          "ar": "المكتبات العامة",
+          "type": "reading",
+          "category": "society",
+          "aliases": [
+            "public libraries","public library","libraries","library","books","reading places",
+            "المكتبات العامة","مكتبات عامة","مكتبة عامة","مكتبة","كتب","مكان قراءة","القراءة"
+          ]
+        },
+        {
+          "id": "A-11",
+          "en": "The Success of Saudi Arabian Soccer",
+          "ar": "نجاح كرة القدم السعودية",
+          "type": "reading",
+          "category": "sports",
+          "aliases": [
+            "saudi soccer","saudi football","saudi arabian soccer","success of saudi soccer","football in saudi arabia",
+            "كرة القدم السعودية","نجاح كرة القدم السعودية","نجاح الكرة السعودية","الكرة السعودية","منتخب السعودية","سعودي فوتبول","سعودي سوكر"
+          ]
+        },
+        {
+          "id": "A-12",
+          "en": "Business Email (Meeting with PR)",
+          "ar": "رسالة بريد إلكتروني رسمية (اجتماع مع العلاقات العامة)",
+          "type": "reading",
+          "category": "business",
+          "aliases": [
+            "business email","formal email","email","meeting with pr","pr meeting","meeting email","complaint email","request email",
+            "رسالة رسمية","ايميل رسمي","إيميل رسمي","بريد رسمي","رسالة بريد","اجتماع العلاقات العامة","اجتماع مع pr","اجتماع PR","رسالة اجتماع"
+          ]
+        },
+        {
+          "id": "A-13",
+          "en": "Bone Broth",
+          "ar": "مرق العظام",
+          "type": "reading",
+          "category": "health",
+          "aliases": [
+            "bone broth","broth","stock","soup","bones soup","collagen broth",
+            "مرق العظام","شوربة العظام","حساء العظام","مرق","شوربة","حساء","كولاجين"
+          ]
+        }
+      ]
+    }
+  ]
+}
