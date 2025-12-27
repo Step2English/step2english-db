@@ -1,4 +1,169 @@
 {
+  "model_id": "7",
+  "model_name_en": "Model 7",
+  "model_name_ar": "نموذج ٧",
+  "test_url": "",
+  "items": [
+    {
+      "title_en": "Medical Doctor",
+      "title_ar": "طبيب",
+      "aliases": [
+        "medical doctor",
+        "doctor",
+        "physician",
+        "طبيب",
+        "دكتور",
+        "طبيب بشري"
+      ]
+    },
+    {
+      "title_en": "Comparison Sentence",
+      "title_ar": "جملة مقارنة",
+      "aliases": [
+        "comparison sentence",
+        "comparison",
+        "comparative sentence",
+        "جملة مقارنة",
+        "مقارنة",
+        "جمل المقارنة"
+      ]
+    },
+    {
+      "title_en": "Mada'in Saleh & Petra",
+      "title_ar": "مدائن صالح وبترا",
+      "aliases": [
+        "madain saleh",
+        "petra",
+        "mada'in saleh",
+        "مدائن صالح",
+        "الحِجر",
+        "بترا",
+        "آثار تاريخية"
+      ]
+    },
+    {
+      "title_en": "Industrial Revolution",
+      "title_ar": "الثورة الصناعية",
+      "aliases": [
+        "industrial revolution",
+        "industry revolution",
+        "industrial age",
+        "الثورة الصناعية",
+        "عصر الصناعة",
+        "التصنيع"
+      ]
+    },
+    {
+      "title_en": "Statistics",
+      "title_ar": "الإحصاء",
+      "aliases": [
+        "statistics",
+        "data analysis",
+        "stats",
+        "إحصاء",
+        "الإحصاء",
+        "تحليل البيانات"
+      ]
+    },
+    {
+      "title_en": "Computer Ethics",
+      "title_ar": "أخلاقيات الحاسوب",
+      "aliases": [
+        "computer ethics",
+        "digital ethics",
+        "technology ethics",
+        "أخلاقيات الحاسوب",
+        "أخلاقيات التكنولوجيا",
+        "أخلاقيات رقمية"
+      ]
+    },
+    {
+      "title_en": "Motor Development",
+      "title_ar": "التطور الحركي",
+      "aliases": [
+        "motor development",
+        "physical development",
+        "child development",
+        "التطور الحركي",
+        "النمو الحركي",
+        "تطور الحركة"
+      ]
+    },
+    {
+      "title_en": "Life Expectancy Chart",
+      "title_ar": "مخطط متوسط العمر",
+      "aliases": [
+        "life expectancy chart",
+        "life expectancy graph",
+        "age expectancy",
+        "مخطط متوسط العمر",
+        "متوسط العمر",
+        "رسم بياني للعمر"
+      ]
+    },
+    {
+      "title_en": "Skyscraper",
+      "title_ar": "ناطحة سحاب",
+      "aliases": [
+        "skyscraper",
+        "tall building",
+        "high-rise",
+        "ناطحة سحاب",
+        "مبنى شاهق",
+        "مباني عالية"
+      ]
+    },
+    {
+      "title_en": "Theory of Motivation",
+      "title_ar": "نظرية الدافعية",
+      "aliases": [
+        "theory of motivation",
+        "motivation theory",
+        "psychology motivation",
+        "نظرية الدافعية",
+        "الدافعية",
+        "التحفيز"
+      ]
+    },
+    {
+      "title_en": "The Spanish Flu",
+      "title_ar": "الإنفلونزا الإسبانية",
+      "aliases": [
+        "spanish flu",
+        "influenza pandemic",
+        "1918 flu",
+        "الإنفلونزا الإسبانية",
+        "وباء الإنفلونزا",
+        "جائحة 1918"
+      ]
+    },
+    {
+      "title_en": "Industrial Revolution (Europe & USA)",
+      "title_ar": "الثورة الصناعية في أوروبا والولايات المتحدة",
+      "aliases": [
+        "industrial revolution europe",
+        "industrial revolution usa",
+        "europe industrial revolution",
+        "الثورة الصناعية في أوروبا",
+        "الثورة الصناعية في أمريكا",
+        "التصنيع في أوروبا وأمريكا"
+      ]
+    },
+    {
+      "title_en": "Language and Identity",
+      "title_ar": "اللغة والهوية",
+      "aliases": [
+        "language and identity",
+        "language identity",
+        "cultural identity",
+        "اللغة والهوية",
+        "الهوية الثقافية",
+        "اللغة والثقافة"
+      ]
+    }
+  ]
+}
+{
   "model_id": "6",
   "model_name_en": "Model 6",
   "model_name_ar": "نموذج ٦",
