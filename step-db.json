@@ -1,4 +1,158 @@
 {
+  "model_id": "6",
+  "model_name_en": "Model 6",
+  "model_name_ar": "نموذج ٦",
+  "test_url": "",
+  "items": [
+    {
+      "title_en": "Ibn Sina (Avicenna)",
+      "title_ar": "ابن سينا",
+      "aliases": [
+        "ibn sina",
+        "avicenna",
+        "ابن سينا",
+        "أفيسينا",
+        "عالم مسلم",
+        "طبيب مسلم",
+        "فيلسوف مسلم"
+      ]
+    },
+    {
+      "title_en": "Octopus",
+      "title_ar": "الأخطبوط",
+      "aliases": [
+        "octopus",
+        "sea animal",
+        "marine animal",
+        "أخطبوط",
+        "حيوان بحري",
+        "كائن بحري"
+      ]
+    },
+    {
+      "title_en": "The Solar System",
+      "title_ar": "النظام الشمسي",
+      "aliases": [
+        "solar system",
+        "planets",
+        "space",
+        "النظام الشمسي",
+        "الكواكب",
+        "الفضاء"
+      ]
+    },
+    {
+      "title_en": "Sickle Cell Anemia",
+      "title_ar": "فقر الدم المنجلي",
+      "aliases": [
+        "sickle cell anemia",
+        "sickle cell disease",
+        "blood disease",
+        "فقر الدم المنجلي",
+        "أنيميا",
+        "مرض الدم",
+        "مرض وراثي"
+      ]
+    },
+    {
+      "title_en": "Wildfires in Washington",
+      "title_ar": "حرائق الغابات في واشنطن",
+      "aliases": [
+        "wildfires",
+        "washington fires",
+        "forest fires",
+        "حرائق الغابات",
+        "حرائق واشنطن",
+        "كوارث طبيعية"
+      ]
+    },
+    {
+      "title_en": "Traffic Congestion Chart",
+      "title_ar": "مخطط الازدحام المروري",
+      "aliases": [
+        "traffic congestion chart",
+        "traffic chart",
+        "traffic graph",
+        "مخطط ازدحام",
+        "ازدحام مروري",
+        "رسم بياني مروري"
+      ]
+    },
+    {
+      "title_en": "Early Astronomy",
+      "title_ar": "علم الفلك المبكر",
+      "aliases": [
+        "early astronomy",
+        "ancient astronomy",
+        "astronomy history",
+        "علم الفلك المبكر",
+        "الفلك القديم",
+        "تاريخ الفلك"
+      ]
+    },
+    {
+      "title_en": "Nuclear Age",
+      "title_ar": "العصر النووي",
+      "aliases": [
+        "nuclear age",
+        "atomic age",
+        "nuclear power",
+        "العصر النووي",
+        "الطاقة النووية",
+        "الأسلحة النووية"
+      ]
+    },
+    {
+      "title_en": "Animal Testing",
+      "title_ar": "التجارب على الحيوانات",
+      "aliases": [
+        "animal testing",
+        "animal experiments",
+        "testing on animals",
+        "تجارب على الحيوانات",
+        "اختبارات حيوانية",
+        "أبحاث علمية"
+      ]
+    },
+    {
+      "title_en": "Keto Diet & Paleo Diet",
+      "title_ar": "حمية الكيتو وحمية باليو",
+      "aliases": [
+        "keto diet",
+        "paleo diet",
+        "diet",
+        "حمية كيتو",
+        "حمية باليو",
+        "أنظمة غذائية"
+      ]
+    },
+    {
+      "title_en": "Weaving",
+      "title_ar": "النسيج",
+      "aliases": [
+        "weaving",
+        "textiles",
+        "fabric making",
+        "نسيج",
+        "صناعة النسيج",
+        "الأقمشة"
+      ]
+    },
+    {
+      "title_en": "Literature and Art Index",
+      "title_ar": "فهرس الأدب والفن",
+      "aliases": [
+        "literature and art",
+        "art index",
+        "literature index",
+        "الأدب والفن",
+        "فهرس الأدب",
+        "فهرس الفن"
+      ]
+    }
+  ]
+}
+{
   "model_id": "5",
   "model_name_en": "Model 5",
   "model_name_ar": "نموذج ٥",
