@@ -1,5 +1,203 @@
 [
   {
+    "id": "M2-01",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Fire",
+    "ar": "الحريق",
+    "type": "reading",
+    "category": "general",
+    "aliases": [
+      "الحريق",
+      "حريق",
+      "نار",
+      "اشتعال",
+      "fire"
+    ]
+  },
+  {
+    "id": "M2-02",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Giant Panda",
+    "ar": "الباندا العملاقة",
+    "type": "reading",
+    "category": "animals",
+    "aliases": [
+      "باندا",
+      "الباندا",
+      "الباندا العملاقة",
+      "دب الباندا",
+      "panda",
+      "giant panda"
+    ]
+  },
+  {
+    "id": "M2-03",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Book Review",
+    "ar": "مراجعة كتاب",
+    "type": "reading",
+    "category": "education",
+    "aliases": [
+      "مراجعة كتاب",
+      "تلخيص كتاب",
+      "عرض كتاب",
+      "book review",
+      "review"
+    ]
+  },
+  {
+    "id": "M2-04",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Dopamine",
+    "ar": "الدوبامين",
+    "type": "reading",
+    "category": "science",
+    "aliases": [
+      "دوبامين",
+      "الدوبامين",
+      "هرمون السعادة",
+      "dopamine"
+    ]
+  },
+  {
+    "id": "M2-05",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Conquering Cancer",
+    "ar": "التغلب على السرطان",
+    "type": "reading",
+    "category": "health",
+    "aliases": [
+      "سرطان",
+      "السرطان",
+      "كانسر",
+      "cancer",
+      "مرض السرطان",
+      "التغلب على السرطان",
+      "علاج السرطان",
+      "مكافحة السرطان",
+      "conquering cancer"
+    ]
+  },
+  {
+    "id": "M2-06",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Tourism in Jamaica",
+    "ar": "السياحة في جامايكا",
+    "type": "reading",
+    "category": "geography",
+    "aliases": [
+      "جامايكا",
+      "السياحة في جامايكا",
+      "سياحة جامايكا",
+      "jamaica",
+      "tourism in jamaica"
+    ]
+  },
+  {
+    "id": "M2-07",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Divorce & Marriage Chart",
+    "ar": "مخطط الطلاق والزواج",
+    "type": "reading",
+    "category": "chart",
+    "aliases": [
+      "طلاق",
+      "زواج",
+      "الطلاق والزواج",
+      "مخطط الطلاق",
+      "رسم بياني الزواج",
+      "divorce chart",
+      "marriage chart"
+    ]
+  },
+  {
+    "id": "M2-08",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Singapore",
+    "ar": "سنغافورة",
+    "type": "reading",
+    "category": "geography",
+    "aliases": [
+      "سنغافورة",
+      "دولة سنغافورة",
+      "singapore"
+    ]
+  },
+  {
+    "id": "M2-09",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Urban Decline in Detroit",
+    "ar": "التدهور الحضري في ديترويت",
+    "type": "reading",
+    "category": "society",
+    "aliases": [
+      "ديترويت",
+      "التدهور الحضري",
+      "تدهور ديترويت",
+      "urban decline",
+      "detroit"
+    ]
+  },
+  {
+    "id": "M2-10",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Profitability & Success",
+    "ar": "الربحية والنجاح",
+    "type": "reading",
+    "category": "business",
+    "aliases": [
+      "الربحية",
+      "النجاح",
+      "ربح",
+      "نجاح",
+      "profitability",
+      "success"
+    ]
+  },
+  {
+    "id": "M2-11",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "The Huns",
+    "ar": "الهون",
+    "type": "reading",
+    "category": "history",
+    "aliases": [
+      "الهون",
+      "قبائل الهون",
+      "huns",
+      "the huns"
+    ]
+  },
+  {
+    "id": "M2-12",
+    "model": "2",
+    "model_label": "Model 2 | نموذج ٢",
+    "en": "Bees",
+    "ar": "النحل",
+    "type": "reading",
+    "category": "animals",
+    "aliases": [
+      "نحل",
+      "النحل",
+      "حشرات",
+      "bees",
+      "bee"
+    ]
+  }
+]
+[
+  {
     "id": "B-01",
     "model": "B",
     "model_label": "Model B | نموذج B",
