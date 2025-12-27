@@ -1,5 +1,260 @@
 [
   {
+    "id": "M3-01",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Medical Doctor",
+    "ar": "طبيب",
+    "type": "reading",
+    "category": "health",
+    "aliases": [
+      "طبيب",
+      "دكتور",
+      "د. ",
+      "طبيب بشري",
+      "doctor",
+      "medical doctor",
+      "physician",
+      "طبيب اطفال",
+      "طبيب عام"
+    ]
+  },
+  {
+    "id": "M3-02",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Comparison Sentence",
+    "ar": "جملة مقارنة",
+    "type": "reading",
+    "category": "grammar",
+    "aliases": [
+      "مقارنة",
+      "جملة مقارنة",
+      "جمل مقارنة",
+      "comparison",
+      "comparison sentence",
+      "more than",
+      "less than",
+      "as ... as",
+      "comparative",
+      "superlative",
+      "افضل من",
+      "اقل من",
+      "مثل",
+      "زي"
+    ]
+  },
+  {
+    "id": "M3-03",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Mada'in Saleh & Petra",
+    "ar": "مدائن صالح وبترا",
+    "type": "reading",
+    "category": "history",
+    "aliases": [
+      "مدائن صالح",
+      "مدائن صالح وبترا",
+      "بترا",
+      "الحِجر",
+      "الحجر",
+      "madain saleh",
+      "mada'in saleh",
+      "al hijr",
+      "petra",
+      "madain",
+      "صالح وبترا"
+    ]
+  },
+  {
+    "id": "M3-04",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Tuna and Salmon",
+    "ar": "التونة والسلمون",
+    "type": "reading",
+    "category": "food",
+    "aliases": [
+      "تونة",
+      "التونة",
+      "سلمون",
+      "السلمون",
+      "التونة والسلمون",
+      "tuna",
+      "salmon",
+      "fish",
+      "اسماك",
+      "سمك"
+    ]
+  },
+  {
+    "id": "M3-05",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "St. Lucia",
+    "ar": "سانت لوسيا",
+    "type": "reading",
+    "category": "geography",
+    "aliases": [
+      "سانت لوسيا",
+      "سنت لوسيا",
+      "st lucia",
+      "saint lucia",
+      "لوسيا"
+    ]
+  },
+  {
+    "id": "M3-06",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Space Junk",
+    "ar": "الحطام الفضائي",
+    "type": "reading",
+    "category": "science",
+    "aliases": [
+      "حطام فضائي",
+      "الحطام الفضائي",
+      "نفايات فضائية",
+      "خردة فضائية",
+      "space junk",
+      "space debris",
+      "debris"
+    ]
+  },
+  {
+    "id": "M3-07",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Inventory Control",
+    "ar": "إدارة المخزون",
+    "type": "reading",
+    "category": "business",
+    "aliases": [
+      "مخزون",
+      "ادارة المخزون",
+      "إدارة المخزون",
+      "inventory",
+      "inventory control",
+      "stock control",
+      "مراقبة المخزون",
+      "مستودع"
+    ]
+  },
+  {
+    "id": "M3-08",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Temperature Chart",
+    "ar": "مخطط درجات الحرارة",
+    "type": "reading",
+    "category": "chart",
+    "aliases": [
+      "درجات الحرارة",
+      "مخطط درجات الحرارة",
+      "رسم بياني درجات الحرارة",
+      "temperature chart",
+      "weather chart",
+      "chart",
+      "مخطط حرارة"
+    ]
+  },
+  {
+    "id": "M3-09",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Tobacco",
+    "ar": "التبغ",
+    "type": "reading",
+    "category": "health",
+    "aliases": [
+      "تبغ",
+      "التبغ",
+      "دخان",
+      "تدخين",
+      "سجائر",
+      "tobacco",
+      "smoking",
+      "cigarettes"
+    ]
+  },
+  {
+    "id": "M3-10",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Biochemical Cycles",
+    "ar": "الدورات الكيميائية الحيوية",
+    "type": "reading",
+    "category": "science",
+    "aliases": [
+      "دورات كيميائية حيوية",
+      "الدورات الكيميائية الحيوية",
+      "دورة كربون",
+      "دورة النيتروجين",
+      "biochemical cycles",
+      "biogeochemical cycles",
+      "cycles"
+    ]
+  },
+  {
+    "id": "M3-11",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Solutions and Problems",
+    "ar": "الحلول والمشكلات",
+    "type": "reading",
+    "category": "general",
+    "aliases": [
+      "حلول ومشكلات",
+      "الحلول والمشكلات",
+      "مشاكل وحلول",
+      "solutions and problems",
+      "problems and solutions",
+      "problem solution",
+      "حل مشكلة"
+    ]
+  },
+  {
+    "id": "M3-12",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "The Discovery of DNA",
+    "ar": "اكتشاف الحمض النووي",
+    "type": "reading",
+    "category": "science",
+    "aliases": [
+      "DNA",
+      "دي ان اي",
+      "دي إن إيه",
+      "الحمض النووي",
+      "اكتشاف الحمض النووي",
+      "discovery of dna",
+      "genetics",
+      "جينات",
+      "وراثة"
+    ]
+  },
+  {
+    "id": "M3-13",
+    "model": "3",
+    "model_label": "Model 3 | نموذج ٣",
+    "en": "Language and Identity",
+    "ar": "اللغة والهوية",
+    "type": "reading",
+    "category": "society",
+    "aliases": [
+      "اللغة والهوية",
+      "لغة وهوية",
+      "الهوية",
+      "اللغة",
+      "identity",
+      "language and identity",
+      "cultural identity",
+      "هوية ثقافية"
+    ]
+  }
+]
+[
+  {
     "id": "M2-01",
     "model": "2",
     "model_label": "Model 2 | نموذج ٢",
