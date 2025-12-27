@@ -1,5 +1,137 @@
 [
   {
+    "id": "M4-01",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Giant Panda",
+    "ar": "الباندا العملاقة",
+    "type": "reading",
+    "category": "animals",
+    "aliases": ["باندا","الباندا","الباندا العملاقة","giant panda","panda","حيوان باندا"]
+  },
+  {
+    "id": "M4-02",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Stars",
+    "ar": "النجوم",
+    "type": "reading",
+    "category": "science",
+    "aliases": ["نجوم","النجوم","star","stars","فلك","علم الفلك"]
+  },
+  {
+    "id": "M4-03",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Engineering Innovation",
+    "ar": "الابتكار الهندسي",
+    "type": "reading",
+    "category": "technology",
+    "aliases": ["ابتكار هندسي","الابتكار الهندسي","engineering innovation","هندسة","ابتكار"]
+  },
+  {
+    "id": "M4-04",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Mixed Economic System",
+    "ar": "النظام الاقتصادي المختلط",
+    "type": "reading",
+    "category": "economics",
+    "aliases": ["نظام اقتصادي مختلط","الاقتصاد المختلط","mixed economy","mixed economic system"]
+  },
+  {
+    "id": "M4-05",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Public Safety",
+    "ar": "السلامة العامة",
+    "type": "reading",
+    "category": "society",
+    "aliases": ["سلامة عامة","السلامة العامة","public safety","أمن عام","وقاية"]
+  },
+  {
+    "id": "M4-06",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Photosynthesis",
+    "ar": "البناء الضوئي",
+    "type": "reading",
+    "category": "science",
+    "aliases": ["بناء ضوئي","البناء الضوئي","photosynthesis","نبات","تمثيل ضوئي"]
+  },
+  {
+    "id": "M4-07",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Literacy Chart",
+    "ar": "مخطط محو الأمية",
+    "type": "reading",
+    "category": "chart",
+    "aliases": ["محو الأمية","مخطط محو الأمية","literacy chart","chart","نسبة القراءة"]
+  },
+  {
+    "id": "M4-08",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Yellowstone National Park",
+    "ar": "منتزه يلوستون الوطني",
+    "type": "reading",
+    "category": "geography",
+    "aliases": ["يلوستون","منتزه يلوستون","yellowstone","yellowstone national park","حديقة وطنية"]
+  },
+  {
+    "id": "M4-09",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Europeans in Australia",
+    "ar": "الأوروبيون في أستراليا",
+    "type": "reading",
+    "category": "history",
+    "aliases": ["أوروبيون في أستراليا","الأوروبيون في أستراليا","europeans in australia","استيطان"]
+  },
+  {
+    "id": "M4-10",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Computational Thinking",
+    "ar": "التفكير الحاسوبي",
+    "type": "reading",
+    "category": "technology",
+    "aliases": ["تفكير حاسوبي","التفكير الحاسوبي","computational thinking","برمجة","خوارزميات"]
+  },
+  {
+    "id": "M4-11",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Tourism Statistics",
+    "ar": "إحصاءات السياحة",
+    "type": "reading",
+    "category": "chart",
+    "aliases": ["إحصاءات السياحة","سياحة","tourism statistics","chart","ارقام سياحية"]
+  },
+  {
+    "id": "M4-12",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Phobias",
+    "ar": "الرهاب",
+    "type": "reading",
+    "category": "health",
+    "aliases": ["رهاب","فوبيا","phobia","phobias","خوف مرضي","قلق"]
+  },
+  {
+    "id": "M4-13",
+    "model": "4",
+    "model_label": "Model 4 | نموذج ٤",
+    "en": "Strange Substance",
+    "ar": "مادة غريبة",
+    "type": "reading",
+    "category": "science",
+    "aliases": ["مادة غريبة","مواد غريبة","strange substance","substance","مادة"]
+  }
+]
+[
+  {
     "id": "M3-01",
     "model": "3",
     "model_label": "Model 3 | نموذج ٣",
