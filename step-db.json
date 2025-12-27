@@ -1,5 +1,267 @@
 [
   {
+    "id": "B-01",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Dialogue (Dinner Invitation)",
+    "ar": "حوار (دعوة على العشاء)",
+    "type": "reading",
+    "category": "dialogue",
+    "aliases": [
+      "حوار",
+      "حوار دعوة",
+      "دعوة على العشاء",
+      "دعوة عشاء",
+      "حوار عشاء",
+      "محادثة عشاء",
+      "dialogue",
+      "dinner invitation",
+      "invitation dialogue"
+    ]
+  },
+  {
+    "id": "B-02",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Pigeons",
+    "ar": "الحمام",
+    "type": "reading",
+    "category": "animals",
+    "aliases": [
+      "الحمام",
+      "حمام",
+      "طيور الحمام",
+      "pigeon",
+      "pigeons"
+    ]
+  },
+  {
+    "id": "B-03",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Stars and Planets",
+    "ar": "النجوم والكواكب",
+    "type": "reading",
+    "category": "science",
+    "aliases": [
+      "النجوم والكواكب",
+      "النجوم",
+      "الكواكب",
+      "علم الفلك",
+      "الفضاء",
+      "stars",
+      "planets",
+      "astronomy"
+    ]
+  },
+  {
+    "id": "B-04",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Website Security (HTTPS & SSL)",
+    "ar": "أمان المواقع (HTTPS و SSL)",
+    "type": "reading",
+    "category": "technology",
+    "aliases": [
+      "أمان المواقع",
+      "حماية المواقع",
+      "أمن المواقع",
+      "https",
+      "ssl",
+      "شهادة ssl",
+      "تأمين المواقع",
+      "website security"
+    ]
+  },
+  {
+    "id": "B-05",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "The Fitness Mirror",
+    "ar": "المرآة الذكية للياقة",
+    "type": "reading",
+    "category": "technology",
+    "aliases": [
+      "المرآة الذكية",
+      "مرآة اللياقة",
+      "المرآة الرياضية",
+      "لياقة ذكية",
+      "fitness mirror",
+      "smart mirror"
+    ]
+  },
+  {
+    "id": "B-06",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Inflation",
+    "ar": "التضخم",
+    "type": "reading",
+    "category": "economics",
+    "aliases": [
+      "التضخم",
+      "غلاء الأسعار",
+      "ارتفاع الأسعار",
+      "اقتصاد",
+      "inflation"
+    ]
+  },
+  {
+    "id": "B-07",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Annual Ticket Sales by League (Chart)",
+    "ar": "مبيعات التذاكر السنوية حسب الدوري (رسم بياني)",
+    "type": "reading",
+    "category": "chart",
+    "aliases": [
+      "مبيعات التذاكر",
+      "تذاكر سنوية",
+      "رسم بياني التذاكر",
+      "مخطط التذاكر",
+      "الدوريات",
+      "ticket sales",
+      "ticket chart"
+    ]
+  },
+  {
+    "id": "B-08",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Social Media by Age Group (Chart)",
+    "ar": "استخدام وسائل التواصل حسب الفئة العمرية (رسم بياني)",
+    "type": "reading",
+    "category": "chart",
+    "aliases": [
+      "وسائل التواصل الاجتماعي",
+      "السوشيال ميديا",
+      "فئات عمرية",
+      "رسم بياني وسائل التواصل",
+      "استخدام السوشيال",
+      "social media chart"
+    ]
+  },
+  {
+    "id": "B-09",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Global Warming in Northern Europe",
+    "ar": "الاحتباس الحراري في شمال أوروبا",
+    "type": "reading",
+    "category": "environment",
+    "aliases": [
+      "الاحتباس الحراري",
+      "الاحتباس الحراري في أوروبا",
+      "شمال أوروبا",
+      "تغير المناخ",
+      "global warming",
+      "climate change"
+    ]
+  },
+  {
+    "id": "B-10",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Sources of Stress (Chart)",
+    "ar": "مصادر التوتر (رسم بياني)",
+    "type": "reading",
+    "category": "chart",
+    "aliases": [
+      "مصادر التوتر",
+      "التوتر",
+      "ضغط نفسي",
+      "رسم بياني التوتر",
+      "stress sources",
+      "stress chart"
+    ]
+  },
+  {
+    "id": "B-11",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "The Dangers of Excess Security",
+    "ar": "مخاطر الإفراط في الإجراءات الأمنية",
+    "type": "reading",
+    "category": "society",
+    "aliases": [
+      "الإجراءات الأمنية",
+      "الأمن الزائد",
+      "مخاطر الأمن",
+      "الحماية الزائدة",
+      "excess security"
+    ]
+  },
+  {
+    "id": "B-12",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Junk Food Advertising",
+    "ar": "إعلانات الوجبات السريعة",
+    "type": "reading",
+    "category": "health",
+    "aliases": [
+      "إعلانات الوجبات السريعة",
+      "إعلانات الأكل السريع",
+      "دعاية الوجبات السريعة",
+      "junk food ads",
+      "fast food advertising"
+    ]
+  },
+  {
+    "id": "B-13",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Study Abroad",
+    "ar": "الدراسة في الخارج",
+    "type": "reading",
+    "category": "education",
+    "aliases": [
+      "الدراسة في الخارج",
+      "ابتعاث",
+      "دراسة خارجية",
+      "سفر للدراسة",
+      "study abroad"
+    ]
+  },
+  {
+    "id": "B-14",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Television and Health",
+    "ar": "التلفاز والصحة",
+    "type": "reading",
+    "category": "health",
+    "aliases": [
+      "التلفاز والصحة",
+      "التلفزيون والصحة",
+      "مشاهدة التلفاز",
+      "أضرار التلفاز",
+      "television and health"
+    ]
+  },
+  {
+    "id": "B-15",
+    "model": "B",
+    "model_label": "Model B | نموذج B",
+    "en": "Business Email (Meeting with PR)",
+    "ar": "رسالة بريد إلكتروني رسمية (اجتماع مع العلاقات العامة)",
+    "type": "reading",
+    "category": "business",
+    "aliases": [
+      "رسالة بريد إلكتروني رسمية",
+      "ايميل رسمي",
+      "رسالة عمل",
+      "اجتماع العلاقات العامة",
+      "اجتماع PR",
+      "تحديد موعد اجتماع",
+      "business email",
+      "formal email",
+      "pr meeting"
+    ]
+  }
+]
+[
+  {
     "id": "A-01",
     "model": "A",
     "model_label": "Model A | نموذج A",
