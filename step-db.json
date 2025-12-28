@@ -3003,7 +3003,7 @@
     }
   ]
 },
-{
+  {
   "modelKey": "12",
   "modelName": "Model 12 | نموذج ١٢",
   "testUrl": "PUT_TEST_LINK_HERE",
@@ -3190,6 +3190,155 @@
   ]
 },
 {
+  "modelKey": "13",
+  "modelName": "Model 13 | نموذج ١٣",
+  "testUrl": "PUT_TEST_LINK_HERE",
+  "passages": [
+    {
+      "id": 1,
+      "titleEn": "Comparison Sentence (Adam is not as tall as Eric)",
+      "titleAr": "جملة مقارنة",
+      "aliases": [
+        "comparison sentence",
+        "adam is not as tall as eric",
+        "comparative sentence",
+        "جملة مقارنة",
+        "المقارنة",
+        "قطعة المقارنة",
+        "نص المقارنة"
+      ]
+    },
+    {
+      "id": 2,
+      "titleEn": "Ibn Sina (Avicenna)",
+      "titleAr": "ابن سينا (أفيسينا)",
+      "aliases": [
+        "ibn sina",
+        "avicenna",
+        "islamic scientist",
+        "ابن سينا",
+        "أفيسينا",
+        "العالم المسلم",
+        "قطعة ابن سينا",
+        "نص ابن سينا"
+      ]
+    },
+    {
+      "id": 3,
+      "titleEn": "Mada’in Saleh & Petra",
+      "titleAr": "مدائن صالح وبترا",
+      "aliases": [
+        "madain saleh",
+        "petra",
+        "madain saleh and petra",
+        "ancient cities",
+        "مدائن صالح",
+        "بترا",
+        "الحضارات القديمة",
+        "قطعة مدائن صالح",
+        "نص بترا"
+      ]
+    },
+    {
+      "id": 4,
+      "titleEn": "Paper / Papermaking",
+      "titleAr": "الورق وصناعة الورق",
+      "aliases": [
+        "paper",
+        "papermaking",
+        "paper industry",
+        "history of paper",
+        "الورق",
+        "صناعة الورق",
+        "تاريخ الورق",
+        "قطعة الورق",
+        "نص الورق"
+      ]
+    },
+    {
+      "id": 5,
+      "titleEn": "Literature and Art Index (Hispanic Society)",
+      "titleAr": "فهرس الأدب والفن (الثقافة الإسبانية)",
+      "aliases": [
+        "literature and art index",
+        "hispanic society",
+        "spanish culture",
+        "art and literature",
+        "الأدب والفن",
+        "الثقافة الإسبانية",
+        "فهرس الأدب",
+        "قطعة الأدب والفن",
+        "نص الثقافة الإسبانية"
+      ]
+    },
+    {
+      "id": 6,
+      "titleEn": "Weather in parts of the Kingdom",
+      "titleAr": "حالة الطقس في أجزاء من المملكة",
+      "aliases": [
+        "weather in the kingdom",
+        "weather in saudi arabia",
+        "weather conditions",
+        "climate",
+        "حالة الطقس",
+        "الطقس في المملكة",
+        "المناخ",
+        "قطعة الطقس",
+        "نص الطقس"
+      ]
+    },
+    {
+      "id": 7,
+      "titleEn": "Language and Identity (Korean Families)",
+      "titleAr": "اللغة والهوية (العائلات الكورية)",
+      "aliases": [
+        "language and identity",
+        "korean families",
+        "language identity",
+        "culture and language",
+        "اللغة والهوية",
+        "العائلات الكورية",
+        "الهوية الثقافية",
+        "قطعة اللغة",
+        "نص الهوية"
+      ]
+    },
+    {
+      "id": 8,
+      "titleEn": "Medical Doctor",
+      "titleAr": "طبيب",
+      "aliases": [
+        "medical doctor",
+        "doctor",
+        "physician",
+        "health profession",
+        "طبيب",
+        "الدكتور",
+        "الطبيب",
+        "المجال الطبي",
+        "قطعة الطبيب",
+        "نص الطبيب"
+      ]
+    },
+    {
+      "id": 9,
+      "titleEn": "Weaving / Textile Making",
+      "titleAr": "النسيج وصناعة الأقمشة",
+      "aliases": [
+        "weaving",
+        "textile making",
+        "fabric industry",
+        "textiles",
+        "النسيج",
+        "صناعة الأقمشة",
+        "المنسوجات",
+        "قطعة النسيج",
+        "نص الأقمشة"
+      ]
+    }
+  ]
+},
+  {
   "modelKey": "14",
   "modelName": "Model 14 | نموذج ١٤",
   "testUrl": "PUT_TEST_LINK_HERE",
