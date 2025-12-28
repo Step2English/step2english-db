@@ -1,4 +1,219 @@
-[
+[{
+  "modelKey": "42",
+  "modelName": "Model 42 | نموذج ٤٢",
+  "testUrl": "PUT_TEST_LINK_HERE",
+  "passages": [
+    {
+      "id": 1,
+      "titleEn": "Giant Panda",
+      "titleAr": "الباندا العملاقة",
+      "aliases": [
+        "giant panda",
+        "panda",
+        "panda bear",
+        "giant pandas",
+        "wild panda",
+        "الباندا",
+        "الباندا العملاقة",
+        "دب الباندا",
+        "حيوان الباندا",
+        "قطعة الباندا",
+        "نص الباندا"
+      ]
+    },
+    {
+      "id": 2,
+      "titleEn": "Stars",
+      "titleAr": "النجوم",
+      "aliases": [
+        "stars",
+        "space stars",
+        "types of stars",
+        "astronomy stars",
+        "النجوم",
+        "نجوم الفضاء",
+        "علم الفلك",
+        "أنواع النجوم",
+        "قطعة النجوم",
+        "نص النجوم"
+      ]
+    },
+    {
+      "id": 3,
+      "titleEn": "Stress",
+      "titleAr": "التوتر",
+      "aliases": [
+        "stress",
+        "psychological stress",
+        "stress causes",
+        "stress effects",
+        "التوتر",
+        "الضغط النفسي",
+        "القلق",
+        "الإجهاد",
+        "قطعة التوتر",
+        "نص التوتر"
+      ]
+    },
+    {
+      "id": 4,
+      "titleEn": "Market Orientated",
+      "titleAr": "التوجه السوقي",
+      "aliases": [
+        "market orientated",
+        "market oriented",
+        "market orientation",
+        "business market strategy",
+        "التوجه السوقي",
+        "التركيز على السوق",
+        "استراتيجية السوق",
+        "توجه الشركات",
+        "قطعة التوجه السوقي",
+        "نص السوق"
+      ]
+    },
+    {
+      "id": 5,
+      "titleEn": "Intellectual Property",
+      "titleAr": "الملكية الفكرية",
+      "aliases": [
+        "intellectual property",
+        "ip rights",
+        "copyright and patents",
+        "intellectual rights",
+        "الملكية الفكرية",
+        "حقوق الملكية الفكرية",
+        "حقوق النشر",
+        "براءات الاختراع",
+        "قطعة الملكية الفكرية",
+        "نص الملكية الفكرية"
+      ]
+    },
+    {
+      "id": 6,
+      "titleEn": "After Tax Income Shares",
+      "titleAr": "حصص الدخل بعد الضريبة",
+      "aliases": [
+        "after tax income shares",
+        "income after tax",
+        "tax distribution",
+        "income inequality",
+        "حصص الدخل بعد الضريبة",
+        "الدخل بعد الضريبة",
+        "توزيع الدخل",
+        "الضرائب",
+        "قطعة الدخل",
+        "نص الضريبة"
+      ]
+    },
+    {
+      "id": 7,
+      "titleEn": "The Paralegal Profession",
+      "titleAr": "مهنة المساعد القانوني",
+      "aliases": [
+        "paralegal profession",
+        "paralegal",
+        "legal assistant",
+        "law profession",
+        "مهنة المساعد القانوني",
+        "المساعد القانوني",
+        "العمل القانوني",
+        "مهن القانون",
+        "قطعة المساعد القانوني",
+        "نص المهنة القانونية"
+      ]
+    },
+    {
+      "id": 8,
+      "titleEn": "Composition of Compounds",
+      "titleAr": "تركيب المركبات",
+      "aliases": [
+        "composition of compounds",
+        "chemical compounds",
+        "compound composition",
+        "chemistry compounds",
+        "تركيب المركبات",
+        "المركبات الكيميائية",
+        "الكيمياء",
+        "تركيب المواد",
+        "قطعة المركبات",
+        "نص الكيمياء"
+      ]
+    },
+    {
+      "id": 9,
+      "titleEn": "Economist",
+      "titleAr": "الخبير الاقتصادي",
+      "aliases": [
+        "economist",
+        "economic expert",
+        "economics specialist",
+        "economy expert",
+        "الخبير الاقتصادي",
+        "اقتصادي",
+        "علم الاقتصاد",
+        "الاقتصاد",
+        "قطعة الخبير الاقتصادي",
+        "نص الاقتصاد"
+      ]
+    },
+    {
+      "id": 10,
+      "titleEn": "Emotions & Culture",
+      "titleAr": "المشاعر والثقافة",
+      "aliases": [
+        "emotions and culture",
+        "culture and emotions",
+        "emotional behavior",
+        "cultural emotions",
+        "المشاعر والثقافة",
+        "الثقافة والمشاعر",
+        "السلوك العاطفي",
+        "علم النفس الثقافي",
+        "قطعة المشاعر",
+        "نص الثقافة"
+      ]
+    },
+    {
+      "id": 11,
+      "titleEn": "Oil & Spills",
+      "titleAr": "النفط والتسربات النفطية",
+      "aliases": [
+        "oil spills",
+        "oil and spills",
+        "oil pollution",
+        "environmental oil damage",
+        "النفط والتسربات النفطية",
+        "تسرب النفط",
+        "التلوث النفطي",
+        "تلوث البحار",
+        "قطعة النفط",
+        "نص التسرب النفطي"
+      ]
+    },
+    {
+      "id": 12,
+      "titleEn": "Floor Damage",
+      "titleAr": "تلف الأرضيات",
+      "aliases": [
+        "floor damage",
+        "damaged floors",
+        "flooring problems",
+        "building damage",
+        "تلف الأرضيات",
+        "تضرر الأرضيات",
+        "مشاكل الأرضيات",
+        "أضرار المباني",
+        "قطعة الأرضيات",
+        "نص تلف الأرضيات"
+      ]
+    }
+  ]
+}
+
+  
+]
+  [
 {
   "modelKey": "43",
   "modelName": "Model 43 | نموذج ٤٣",
