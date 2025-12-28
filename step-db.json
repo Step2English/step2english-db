@@ -1,238 +1,195 @@
 [
-  {
-    "modelKey": "A",
-    "modelName": "Model A | نموذج A",
-    "testUrl": "PUT_TEST_LINK_HERE",
-    "passages": [
-      { "id": 1, "titleEn": "Muhammad Ali", "titleAr": "محمد علي" },
-      { "id": 2, "titleEn": "Madagascar", "titleAr": "مدغشقر" },
-      { "id": 3, "titleEn": "Fast Food", "titleAr": "الوجبات السريعة" },
-      { "id": 4, "titleEn": "Brazil’s Water Shortage (São Paulo Drought)", "titleAr": "أزمة المياه في البرازيل (جفاف ساو باولو)" },
-      { "id": 5, "titleEn": "The Aral Sea", "titleAr": "بحر آرال" },
-      { "id": 6, "titleEn": "Visitors Statistics (Chart)", "titleAr": "إحصائيات الزوار (رسم بياني)" },
-      { "id": 7, "titleEn": "Company Revenue (Chart)", "titleAr": "إيرادات الشركة (رسم بياني)" },
-      { "id": 8, "titleEn": "Red Flags That a Text Is Spam", "titleAr": "علامات الرسائل الاحتيالية" },
-      { "id": 9, "titleEn": "Acid Rain", "titleAr": "الأمطار الحمضية" },
-      { "id": 10, "titleEn": "Public Libraries", "titleAr": "المكتبات العامة" },
-      { "id": 11, "titleEn": "The Success of Saudi Arabian Soccer", "titleAr": "نجاح كرة القدم السعودية" },
-      { "id": 12, "titleEn": "Business Email (Meeting with PR)", "titleAr": "رسالة بريد إلكتروني رسمية (اجتماع العلاقات العامة)" },
-      { "id": 13, "titleEn": "Bone Broth", "titleAr": "مرق العظام" }
-    ]
-  },
-  {
-    "modelKey": "B",
-    "modelName": "Model B | نموذج B",
-    "testUrl": "PUT_TEST_LINK_HERE",
-    "passages": [
-      { "id": 1, "titleEn": "Dialogue (Dinner Invitation)", "titleAr": "حوار (دعوة على العشاء)" },
-      { "id": 2, "titleEn": "Pigeons", "titleAr": "الحمام" },
-      { "id": 3, "titleEn": "Stars and Planets", "titleAr": "النجوم والكواكب" },
-      { "id": 4, "titleEn": "Website Security (HTTPS & SSL)", "titleAr": "أمان المواقع (HTTPS و SSL)" },
-      { "id": 5, "titleEn": "The Fitness Mirror", "titleAr": "المرآة الذكية للياقة" },
-      { "id": 6, "titleEn": "Inflation", "titleAr": "التضخم" },
-      { "id": 7, "titleEn": "Annual Ticket Sales by League (Chart)", "titleAr": "مبيعات التذاكر السنوية حسب الدوري (رسم بياني)" },
-      { "id": 8, "titleEn": "Social Media by Age Group (Chart)", "titleAr": "استخدام وسائل التواصل حسب الفئة العمرية (رسم بياني)" },
-      { "id": 9, "titleEn": "Global Warming in Northern Europe", "titleAr": "الاحتباس الحراري في شمال أوروبا" },
-      { "id": 10, "titleEn": "Sources of Stress (Chart)", "titleAr": "مصادر التوتر (رسم بياني)" },
-      { "id": 11, "titleEn": "The Dangers of Excess Security", "titleAr": "مخاطر الإفراط في الإجراءات الأمنية" },
-      { "id": 12, "titleEn": "Junk Food Advertising", "titleAr": "إعلانات الوجبات السريعة" },
-      { "id": 13, "titleEn": "Study Abroad", "titleAr": "الدراسة في الخارج" },
-      { "id": 14, "titleEn": "Television and Health", "titleAr": "التلفاز والصحة" },
-      { "id": 15, "titleEn": "Business Email (Meeting with PR)", "titleAr": "رسالة بريد إلكتروني رسمية (اجتماع مع العلاقات العامة)" }
-    ]
-  },
-
-  {
-    "modelKey": "2",
-    "modelName": "Model 2 | نموذج ٢",
-    "testUrl": "PUT_TEST_LINK_HERE",
-    "passages": [
-      { "id": 1, "titleEn": "Fire", "titleAr": "الحريق" },
-      { "id": 2, "titleEn": "Giant Panda", "titleAr": "الباندا العملاقة" },
-      { "id": 3, "titleEn": "Book Review", "titleAr": "مراجعة كتاب" },
-      { "id": 4, "titleEn": "Dopamine", "titleAr": "الدوبامين" },
-      { "id": 5, "titleEn": "Conquering Cancer", "titleAr": "التغلب على السرطان" },
-      { "id": 6, "titleEn": "Tourism in Jamaica", "titleAr": "السياحة في جامايكا" },
-      { "id": 7, "titleEn": "Divorce & Marriage Chart", "titleAr": "مخطط الطلاق والزواج" },
-      { "id": 8, "titleEn": "Singapore", "titleAr": "سنغافورة" },
-      { "id": 9, "titleEn": "Urban Decline in Detroit", "titleAr": "التدهور الحضري في ديترويت" },
-      { "id": 10, "titleEn": "Profitability & Success", "titleAr": "الربحية والنجاح" },
-      { "id": 11, "titleEn": "The Huns", "titleAr": "الهون" },
-      { "id": 12, "titleEn": "Bees", "titleAr": "النحل" }
-    ]
-  },
-
-  {
-    "modelKey": "3",
-    "modelName": "Model 3 | نموذج ٣",
-    "testUrl": "PUT_TEST_LINK_HERE",
-    "passages": [
-      { "id": 1, "titleEn": "Medical Doctor", "titleAr": "طبيب" },
-      { "id": 2, "titleEn": "Comparison Sentence", "titleAr": "جملة مقارنة" },
-      { "id": 3, "titleEn": "Mada’in Saleh & Petra", "titleAr": "مدائن صالح وبترا" },
-      { "id": 4, "titleEn": "Tuna and Salmon", "titleAr": "التونة والسلمون" },
-      { "id": 5, "titleEn": "St. Lucia", "titleAr": "سانت لوسيا" },
-      { "id": 6, "titleEn": "Space Junk", "titleAr": "الحطام الفضائي" },
-      { "id": 7, "titleEn": "Inventory Control", "titleAr": "إدارة المخزون" },
-      { "id": 8, "titleEn": "Temperature Chart", "titleAr": "مخطط درجات الحرارة" },
-      { "id": 9, "titleEn": "Tobacco", "titleAr": "التبغ" },
-      { "id": 10, "titleEn": "Biochemical Cycles", "titleAr": "الدورات الكيميائية الحيوية" },
-      { "id": 11, "titleEn": "Solutions and Problems", "titleAr": "الحلول والمشكلات" },
-      { "id": 12, "titleEn": "The Discovery of DNA", "titleAr": "اكتشاف الحمض النووي" },
-      { "id": 13, "titleEn": "Language and Identity", "titleAr": "اللغة والهوية" }
-    ]
-  },
-
-  {
-    "modelKey": "4",
-    "modelName": "Model 4 | نموذج ٤",
-    "testUrl": "PUT_TEST_LINK_HERE",
-    "passages": [
-      { "id": 1, "titleEn": "Giant Panda", "titleAr": "الباندا العملاقة" },
-      { "id": 2, "titleEn": "Stars", "titleAr": "النجوم" },
-      { "id": 3, "titleEn": "Engineering Innovation", "titleAr": "الابتكار الهندسي" },
-      { "id": 4, "titleEn": "Mixed Economic System", "titleAr": "النظام الاقتصادي المختلط" },
-      { "id": 5, "titleEn": "Public Safety", "titleAr": "السلامة العامة" },
-      { "id": 6, "titleEn": "Photosynthesis", "titleAr": "البناء الضوئي" },
-      { "id": 7, "titleEn": "Literacy Chart", "titleAr": "مخطط محو الأمية" },
-      { "id": 8, "titleEn": "Yellowstone National Park", "titleAr": "منتزه يلوستون الوطني" },
-      { "id": 9, "titleEn": "Europeans in Australia", "titleAr": "الأوروبيون في أستراليا" },
-      { "id": 10, "titleEn": "Computational Thinking", "titleAr": "التفكير الحاسوبي" },
-      { "id": 11, "titleEn": "Tourism Statistics", "titleAr": "إحصاءات السياحة" },
-      { "id": 12, "titleEn": "Phobias", "titleAr": "الرهاب" },
-      { "id": 13, "titleEn": "Strange Substance", "titleAr": "مادة غريبة" }
-    ]
-  },
-
-  {
-    "modelKey": "5",
-    "modelName": "Model 5 | نموذج ٥",
-    "testUrl": "PUT_TEST_LINK_HERE",
-    "passages": [
-      { "id": 1, "titleEn": "Giant Panda", "titleAr": "الباندا العملاقة" },
-      { "id": 2, "titleEn": "Stars", "titleAr": "النجوم" },
-      { "id": 3, "titleEn": "Asteroids", "titleAr": "الكويكبات" },
-      { "id": 4, "titleEn": "Sociology", "titleAr": "علم الاجتماع" },
-      { "id": 5, "titleEn": "Biotechnology", "titleAr": "التكنولوجيا الحيوية" },
-      { "id": 6, "titleEn": "Sleeping Loss", "titleAr": "قلة النوم" },
-      { "id": 7, "titleEn": "Population Chart", "titleAr": "مخطط سكاني" },
-      { "id": 8, "titleEn": "Watches", "titleAr": "الساعات" },
-      { "id": 9, "titleEn": "Skinner’s Experiments", "titleAr": "تجارب سكنر" },
-      { "id": 10, "titleEn": "Cultures", "titleAr": "الثقافات" },
-      { "id": 11, "titleEn": "Computers", "titleAr": "الحاسوب" },
-      { "id": 12, "titleEn": "Wordle", "titleAr": "ووردل" }
-    ]
-  // build-step-db.js
-const fs = require("fs");
-
-function uniq(arr) {
-  const out = [];
-  const seen = new Set();
-  for (const x of arr) {
-    const v = (x || "").toString().trim();
-    if (!v) continue;
-    const key = v.toLowerCase();
-    if (!seen.has(key)) {
-      seen.add(key);
-      out.push(v);
+{
+  "modelKey": "43",
+  "modelName": "Model 43 | نموذج ٤٣",
+  "testUrl": "PUT_TEST_LINK_HERE",
+  "passages": [
+    {
+      "id": 1,
+      "titleEn": "Pizza Margherita",
+      "titleAr": "بيتزا مارجريتا",
+      "aliases": [
+        "pizza margherita",
+        "margherita pizza",
+        "italian pizza",
+        "pizza history",
+        "بيتزا مارجريتا",
+        "بيتزا ايطالي",
+        "البيتزا",
+        "بيتزا",
+        "قطعة البيتزا",
+        "نص البيتزا"
+      ]
+    },
+    {
+      "id": 2,
+      "titleEn": "Animal Rights",
+      "titleAr": "حقوق الحيوان",
+      "aliases": [
+        "animal rights",
+        "rights of animals",
+        "animal protection",
+        "animal welfare",
+        "حقوق الحيوان",
+        "حماية الحيوانات",
+        "الرفق بالحيوان",
+        "حقوق الحيوانات",
+        "قطعة حقوق الحيوان",
+        "نص حقوق الحيوان"
+      ]
+    },
+    {
+      "id": 3,
+      "titleEn": "Language Learning Tips",
+      "titleAr": "نصائح تعلم اللغات",
+      "aliases": [
+        "language learning tips",
+        "learning languages",
+        "language tips",
+        "how to learn languages",
+        "نصائح تعلم اللغات",
+        "تعلم اللغات",
+        "تعلم الانجليزي",
+        "طرق تعلم اللغة",
+        "قطعة تعلم اللغات",
+        "نص تعلم اللغات"
+      ]
+    },
+    {
+      "id": 4,
+      "titleEn": "A Workshop Experience",
+      "titleAr": "تجربة ورشة عمل",
+      "aliases": [
+        "workshop experience",
+        "a workshop experience",
+        "training workshop",
+        "learning workshop",
+        "تجربة ورشة عمل",
+        "ورشة عمل",
+        "تجربة تدريب",
+        "ورشة تدريبية",
+        "قطعة ورشة عمل",
+        "نص ورشة عمل"
+      ]
+    },
+    {
+      "id": 5,
+      "titleEn": "Picture Sign",
+      "titleAr": "لافتة مصورة",
+      "aliases": [
+        "picture sign",
+        "sign with picture",
+        "visual sign",
+        "warning sign picture",
+        "لافتة مصورة",
+        "لافتة",
+        "علامة مصورة",
+        "اشارة مصورة",
+        "قطعة لافتة",
+        "نص اللافتة"
+      ]
+    },
+    {
+      "id": 6,
+      "titleEn": "Russian Doll",
+      "titleAr": "الدمية الروسية",
+      "aliases": [
+        "russian doll",
+        "matryoshka",
+        "matryoshka doll",
+        "russian toys",
+        "الدمية الروسية",
+        "دمية روسية",
+        "ماتريوشكا",
+        "دمى روسية",
+        "قطعة الدمية الروسية",
+        "نص الدمية الروسية"
+      ]
+    },
+    {
+      "id": 7,
+      "titleEn": "The Importance of Boiling Milk",
+      "titleAr": "أهمية غلي الحليب",
+      "aliases": [
+        "importance of boiling milk",
+        "boiling milk",
+        "milk safety",
+        "raw milk vs boiled milk",
+        "أهمية غلي الحليب",
+        "غلي الحليب",
+        "الحليب",
+        "سلامة الحليب",
+        "قطعة الحليب",
+        "نص غلي الحليب"
+      ]
+    },
+    {
+      "id": 8,
+      "titleEn": "The Discovery of the Vaccine",
+      "titleAr": "اكتشاف اللقاح",
+      "aliases": [
+        "discovery of the vaccine",
+        "vaccine discovery",
+        "history of vaccines",
+        "vaccination",
+        "اكتشاف اللقاح",
+        "اللقاح",
+        "التطعيم",
+        "تاريخ اللقاحات",
+        "قطعة اللقاح",
+        "نص اللقاح"
+      ]
+    },
+    {
+      "id": 9,
+      "titleEn": "Airplanes vs. Motorcycles",
+      "titleAr": "الطائرات مقابل الدراجات النارية",
+      "aliases": [
+        "airplanes vs motorcycles",
+        "airplanes and motorcycles",
+        "transport comparison",
+        "means of transport",
+        "الطائرات مقابل الدراجات النارية",
+        "الطائرات والدراجات",
+        "وسائل النقل",
+        "مقارنة وسائل النقل",
+        "قطعة الطائرات",
+        "نص وسائل النقل"
+      ]
+    },
+    {
+      "id": 10,
+      "titleEn": "Globalization and Agriculture",
+      "titleAr": "العولمة والزراعة",
+      "aliases": [
+        "globalization and agriculture",
+        "globalization effects on agriculture",
+        "agriculture and globalization",
+        "global economy agriculture",
+        "العولمة والزراعة",
+        "تأثير العولمة",
+        "الزراعة",
+        "الاقتصاد العالمي",
+        "قطعة العولمة",
+        "نص الزراعة"
+      ]
+    },
+    {
+      "id": 11,
+      "titleEn": "Proverb Interpretation",
+      "titleAr": "تفسير مثل",
+      "aliases": [
+        "proverb interpretation",
+        "interpreting a proverb",
+        "meaning of proverb",
+        "proverb explanation",
+        "تفسير مثل",
+        "شرح مثل",
+        "معنى مثل",
+        "الأمثال",
+        "قطعة المثل",
+        "نص تفسير مثل"
+      ]
     }
-  }
-  return out;
-}
+  ]
 
-function normalizeEn(s) {
-  return (s || "")
-    .toLowerCase()
-    .replace(/&/g, " and ")
-    .replace(/[’']/g, "")
-    .replace(/\([^)]*\)/g, " ")
-    .replace(/[^a-z0-9\s]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function normalizeAr(s) {
-  return (s || "")
-    .replace(/[ًٌٍَُِّْـ]/g, "")
-    .replace(/[“”"]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function isChartLike(titleEn, titleAr) {
-  const t = (titleEn + " " + titleAr).toLowerCase();
-  return /(chart|graph|statistics|table|رسم بياني|مخطط|إحصائيات|فهرس|جدول)/.test(t);
-}
-
-function makeAliases(titleEn, titleAr) {
-  const en = (titleEn || "").trim();
-  const ar = (titleAr || "").trim();
-
-  const enNorm = normalizeEn(en);
-  const arNorm = normalizeAr(ar);
-
-  const base = [];
-
-  // English variants
-  if (en) {
-    base.push(en);
-    base.push(en.toLowerCase());
-    if (enNorm) base.push(enNorm);
-    base.push(`${enNorm} passage`);
-    base.push(`${enNorm} reading`);
-    base.push(`${enNorm} text`);
-    base.push(`passage ${enNorm}`);
-    base.push(`reading ${enNorm}`);
-  }
-
-  // Arabic variants
-  if (ar) {
-    base.push(ar);
-    if (arNorm) base.push(arNorm);
-    base.push(`قطعة ${arNorm}`);
-    base.push(`نص ${arNorm}`);
-    base.push(`قراءة ${arNorm}`);
-    base.push(`موضوع ${arNorm}`);
-  }
-
-  // Chart/Graph boosters
-  if (isChartLike(en, ar)) {
-    base.push("chart");
-    base.push("graph");
-    base.push("statistics");
-    base.push("table");
-    base.push("رسم بياني");
-    base.push("مخطط");
-    base.push("إحصائيات");
-    base.push("جدول");
-  }
-
-  // Extra common search words (safe)
-  base.push("model passage");
-  base.push("reading passage");
-  base.push("قطعة");
-  base.push("نص");
-  base.push("قراءة");
-
-  return uniq(base);
-}
-
-const inputPath = "step-db.source.json";
-const outputPath = "step-db.json";
-
-const source = JSON.parse(fs.readFileSync(inputPath, "utf8"));
-
-const finalDb = source.map((m) => ({
-  modelKey: String(m.modelKey),
-  modelName: String(m.modelName),
-  testUrl: String(m.testUrl || "PUT_TEST_LINK_HERE"),
-  passages: (m.passages || []).map((p) => ({
-    id: Number(p.id),
-    titleEn: String(p.titleEn),
-    titleAr: String(p.titleAr),
-    aliases: makeAliases(p.titleEn, p.titleAr),
-  })),
-}));
-
-fs.writeFileSync(outputPath, JSON.stringify(finalDb, null, 2), "utf8");
-console.log(`✅ Generated: ${outputPath}`);
