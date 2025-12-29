@@ -1,5 +1,39 @@
 [
-  { "date": "2025-12-29", "q": "Giant Panda | الباندا العملاقة" },
-  { "date": "2025-12-29", "q": "Language and Identity | اللغة والهوية" },
-  { "date": "2025-12-28", "q": "Mada'in Saleh & Petra | مدائن صالح وبترا" }
+  { "date": "2025-12-29", "q": "Travel Graph | رسم بياني عن سفر الناس" },
+  { "date": "2025-12-29", "q": "Hajj Statistics Graph | رسم بياني عن الحجاج (خارج المملكة)" },
+
+  { "date": "2025-12-29", "q": "Toxic Waste | النفايات السامة" },
+  { "date": "2025-12-29", "q": "Plane Crashes | تحطم الطائرات" },
+  { "date": "2025-12-29", "q": "Economic Inflation | التضخم الاقتصادي" },
+  { "date": "2025-12-29", "q": "Strawberries in California | الفراولة في كاليفورنيا" },
+  { "date": "2025-12-29", "q": "Psychology | علم النفس" },
+  { "date": "2025-12-29", "q": "Customer-Based Pricing | التسعير على أساس العميل" },
+  { "date": "2025-12-29", "q": "Watches | الساعات" },
+  { "date": "2025-12-29", "q": "The Cold War | الحرب الباردة" },
+  { "date": "2025-12-29", "q": "The Soviet Union | الاتحاد السوفيتي" },
+
+  { "date": "2025-12-29", "q": "Business Partnership | الشراكة في العمل" },
+  { "date": "2025-12-29", "q": "Agricultural Diversity | الزراعة وتنوع الأنواع" },
+  { "date": "2025-12-29", "q": "Whales and Mammals | الحيتان والثدييات" },
+
+  { "date": "2025-12-29", "q": "Job Application Conversation | محادثة التقدم لوظيفة" },
+  { "date": "2025-12-29", "q": "Trip Reservation | حجز رحلة" },
+  { "date": "2025-12-29", "q": "The Black Death | الطاعون الأسود" },
+  { "date": "2025-12-29", "q": "Eating Habits in America | تغير عادات الأكل في أمريكا" },
+  { "date": "2025-12-29", "q": "Eiffel Tower History | تاريخ برج إيفيل" },
+  { "date": "2025-12-29", "q": "Fire-Resistant Materials | مواد تمنع الاحتراق" },
+  { "date": "2025-12-29", "q": "Cyberbullying | التنمر الإلكتروني" },
+  { "date": "2025-12-29", "q": "Agreement | اتفاقية" },
+  { "date": "2025-12-29", "q": "Teacher Assignment | تعليمات تسليم واجب" },
+
+  { "date": "2025-12-29", "q": "Muscles | العضلات" },
+  { "date": "2025-12-29", "q": "Planets | الكواكب" },
+  { "date": "2025-12-29", "q": "Tourism in Jamaica | السياحة في جامايكا" },
+  { "date": "2025-12-29", "q": "Farmer and Wolves | المزارع والذئاب" },
+  { "date": "2025-12-29", "q": "Emotions | العواطف" },
+  { "date": "2025-12-29", "q": "Cultures | الثقافات" },
+  { "date": "2025-12-29", "q": "Tom's Letter | رسالة توم" },
+  { "date": "2025-12-29", "q": "Muhammad Ali | محمد علي كلاي" },
+  { "date": "2025-12-29", "q": "Camel | الجمل" },
+  { "date": "2025-12-29", "q": "Sole Traders in the UK | التجار الوحيدون في المملكة المتحدة" }
 ]
