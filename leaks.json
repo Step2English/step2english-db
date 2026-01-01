@@ -27,18 +27,18 @@
   { "date": "2026-01-01", "q": "Firefighters and Bravery | رجال الإطفاء والشجاعة" },
   { "date": "2026-01-01", "q": "Gardener Advertisement | إعلان بستاني" },
   { "date": "2026-01-01", "q": "Warning Sign | لافتة تحذير" },
-  { "date": "2026-01-01", "q": "Britain and the European Union (1973–2020) | بريطانيا والاتحاد الأوروبي" },
 
   { "date": "2026-01-01", "q": "Singapore | سنغافورة" },
-  { "date": "2026-01-01", "q": "Computational Thinking | التفكير الحاسوبي" },
   { "date": "2026-01-01", "q": "Divorce & Marriage Chart | مخطط الطلاق والزواج" },
   { "date": "2026-01-01", "q": "Tourism Statistics | إحصاءات السياحة" },
-  { "date": "2026-01-01", "q": "Recent Palm Expansion | التوسع الحديث في زراعة النخيل" },
-  { "date": "2026-01-01", "q": "Renewable Internal Freshwater Resources | مصادر المياه العذبة الداخلية المتجددة" },
-  { "date": "2026-01-01", "q": "Homicide Rates by Region | معدلات جرائم القتل حسب المناطق" },
-  { "date": "2026-01-01", "q": "Tropical Cyclones | الأعاصير المدارية" },
   { "date": "2026-01-01", "q": "Population Chart | مخطط سكاني" },
   { "date": "2026-01-01", "q": "Friction | الاحتكاك" },
 
-  { "date": "2026-01-01", "q": "Conquering Cancer | التغلب على السرطان" }
+  { "date": "2026-01-01", "q": "Conquering Cancer | التغلب على السرطان" },
+
+  { "date": "2026-01-01", "q": "Oil & Spills | النفط والتسربات النفطية" },
+  { "date": "2026-01-01", "q": "The Economics of Meat | اقتصاديات اللحوم" },
+  { "date": "2026-01-01", "q": "European Heat Wave | موجة الحر في أوروبا" },
+  { "date": "2026-01-01", "q": "Keeping Time Then and Now | قياس الوقت قديمًا وحديثًا" },
+  { "date": "2026-01-01", "q": "Early Astronomy | علم الفلك المبكر" }
 ]
